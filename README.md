@@ -1,2 +1,2 @@
 # Illusions
-Introduction to computer science project
+Introduction to computer science semester project
