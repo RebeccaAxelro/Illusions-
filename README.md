@@ -1,2 +1,4 @@
 # Illusions
-Introduction to computer science semester project using pythong and draw
+Introduction to computer science semester project 
+Language: Python
+Modules: Draw.py, math.py
