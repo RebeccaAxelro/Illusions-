@@ -1,6 +1,5 @@
 # Illusions
 Introduction to computer science semester project
 
-Program Language: Python
 
-Modules: Draw.py, math.py
+Created two illusions using Python and module Draw.py
